@@ -22,8 +22,8 @@
 #include "core/Database.h"
 #include "core/Group.h"
 #include "core/Metadata.h"
-#include "crypto/ssh/BinaryStream.h"
-#include "crypto/ssh/OpenSSHKey.h"
+#include "BinaryStream.h"
+#include "OpenSSHKey.h"
 #include "sshagent/KeeAgentSettings.h"
 
 #include <QtNetwork>
